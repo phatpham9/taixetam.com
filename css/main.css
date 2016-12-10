@@ -1,13 +1,13 @@
 /*fun*/
-@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@import url('https://fonts.googleapis.com/css?family=Asap|Open+Sans:400,700&subset=vietnamese');
 * {
-	font-family: 'karla', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .heading,
 .heading *,
 .subheading,
 .subheading * {
-	font-family: 'Varela Round', serif;
+	font-family: 'Asap', sans-serif;
 }.footer,
 .header {
 	background: #e65142;
@@ -15,7 +15,7 @@
 }
 .ctas-button {
 	color: #e65142;
-}@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+}
 *,
 *:before,
 *:after {
